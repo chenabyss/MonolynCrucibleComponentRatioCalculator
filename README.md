@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一个用于 **Rimworld** 模组 **"冶炼厂阵列"** 的组件配置优化工具，基于作者从游戏中人工提取并验证的数学模型，自动枚举所有可能的组件组合（冷却/超频/分担/散热），在给定产品参数和批量件数下，找出使 **总生产时间（含必要冷却）最短** 的最优配比。
+<img width="600" height="580" alt="image" src="https://github.com/user-attachments/assets/ff85756c-7f0d-4bad-9ec6-9fe456db79a2" />
 
 ---
 
